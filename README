@@ -1,0 +1,9 @@
+TLV493D-Lib
+
+A "better" library for tlv493d magnetometers.
+
+I got fed up with infineon's shitty code.
+
+use however you like. attribution not necessary.
+
+if you're cool, git clone this repository in your libraries folder. if you're not cool, download this repository as zip and import it to arduino.
